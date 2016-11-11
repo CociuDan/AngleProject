@@ -1,0 +1,6 @@
+F:\Tekwill\AngleProject\AngleProject\bin\Debug\AngleProject.exe.config
+F:\Tekwill\AngleProject\AngleProject\bin\Debug\AngleProject.exe
+F:\Tekwill\AngleProject\AngleProject\bin\Debug\AngleProject.pdb
+F:\Tekwill\AngleProject\AngleProject\obj\Debug\AngleProject.csprojResolveAssemblyReference.cache
+F:\Tekwill\AngleProject\AngleProject\obj\Debug\AngleProject.exe
+F:\Tekwill\AngleProject\AngleProject\obj\Debug\AngleProject.pdb
